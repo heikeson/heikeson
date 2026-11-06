@@ -125,11 +125,7 @@
 
 ## 🌳 提交花园
 
-*每一次贡献，都是一片新叶。*
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=heikeson&bg_color=F5F5EB&color=526B50&line=91A985&point=C59A69&area=true&hide_border=true&custom_title=%E6%88%91%E7%9A%84%E5%B0%8F%E8%8A%B1%E5%9B%AD" />
-
-</div>
+*怎么有蛇？？*
 
 <img src="https://readmefx.potenfyr.in/snake?username=heikeson" width="100%" alt="Snake" />
 
