@@ -86,11 +86,6 @@
 
 *一点点提交，一点点长大。*
 
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=heikeson&show_icons=true&hide_border=true&bg_color=F5F5EB&title_color=526B50&icon_color=91A985&text_color=687568&ring_color=91A985&locale=cn" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heikeson&layout=compact&hide_border=true&bg_color=F5F5EB&title_color=526B50&text_color=687568&locale=cn" />
 
 <br/>
 
@@ -135,6 +130,8 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=heikeson&bg_color=F5F5EB&color=526B50&line=91A985&point=C59A69&area=true&hide_border=true&custom_title=%E6%88%91%E7%9A%84%E5%B0%8F%E8%8A%B1%E5%9B%AD" />
 
 </div>
+
+<img src="https://readmefx.potenfyr.in/snake?username=heikeson" width="100%" alt="Snake" />
 
 ---
 
